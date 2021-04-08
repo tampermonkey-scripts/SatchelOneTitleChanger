@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SatchelOne Title Changer
-// @namespace    https://www
+// @namespace    https://dev.azure.com/tampermonkey-scripts
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
