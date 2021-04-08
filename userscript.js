@@ -12,7 +12,11 @@
 (function () {
   "use strict";
 
-  function runProgram() {}
+  function runProgram() {
+    if (window.location == "https://www.satchelone.com/todos/issued") {
+      document.title = "SMHW - Todos";
+    }
+  }
 
   setTimeout(runProgram, 6000);
 })();
